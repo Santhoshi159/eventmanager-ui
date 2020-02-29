@@ -1,0 +1,8 @@
+.event-wrapper{
+    border: 25px solid red;
+    width:90px;
+    padding:50px;
+    display:inline-block;
+    margin:25px;
+    background-color: pink;
+}
